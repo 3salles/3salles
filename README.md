@@ -5,4 +5,14 @@
 
 <h1 align="center">
   <img src ="https://piskel-imgstore-b.appspot.com/img/fa8cbcae-d131-11ea-8d88-a15302286fe8.gif">
+  <p>Credits: Myself</p>
 </h1>
+
+<h3> Hi 👋 </h3>
+I am Beatriz Salles, I'm a student Full Stack Dev. I love games, reading, foxes and programming.
+
+- 💻 **Languages:** Python, CSS, HTML, C.
+- 💻⏰ **Learning:** Java, JavaScript, TypeScript.
+- 💻🎯 **What to Learn:** Ruby 
+- 📚 **Academic:** Studying Computer Engineering at UFMA.
+
