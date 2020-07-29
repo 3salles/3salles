@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:beatrizsallesss@gmail.com)
 
 <h1 align="center">
-  <img src ="https://piskel-imgstore-b.appspot.com/img/fa8cbcae-d131-11ea-8d88-a15302286fe8.gif">
-  <p>Credits: Myself</p>
+  <img src ="https://piskel-imgstore-b.appspohttps://piskel-imgstore-b.appspot.com/img/845fd12e-d136-11ea-92e0-3da6918edaad.gif">
 </h1>
 
 <h3> Hi 👋 </h3>
