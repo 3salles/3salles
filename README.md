@@ -8,7 +8,7 @@ I am Beatriz Salles, I'm a student Full Stack Dev. I love games, reading, foxes 
 
 - 💻 **Languages:** Python, CSS, HTML, C.
 - 💻⏰ **Learning:** Java, JavaScript, TypeScript.
-- 💻🎯 **What to Learn:** Ruby 
+- 💻🎯 **What to Learn:** Ruby, Node.js, Android. 
 - 📚 **Academic:** Studying Computer Engineering at UFMA.
 
 <h1 align="center">
