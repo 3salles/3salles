@@ -10,7 +10,7 @@ I am Beatriz Salles, I'm a student Full Stack Dev. I love games, reading, foxes 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/></code>
-- 💻⏰ **Learning:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- 💻⏰ **Learning:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></code>
   <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/></code>
   <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/></code>
 - 💻🎯 **What to Learn:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/></code>
