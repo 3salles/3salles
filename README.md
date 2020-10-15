@@ -24,4 +24,5 @@ Now, I am working as trainee of the Lato Sensu specialization course 'Ciência �
 - 📚 **Academic:** Studying Computer Engineering at UFMA (Federal University of Maranhão).
 
 
-
+[![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=radical)](https://github.com/3salles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical)](https://github.com/3salles/github-readme-stats)
