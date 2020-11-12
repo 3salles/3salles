@@ -1,5 +1,5 @@
 
- <img align="right" src = "https://piskel-imgstore-b.appspot.com/img/845fd12e-d136-11ea-92e0-3da6918edaad.gif">
+ <img align="right" src = "https://user-images.githubusercontent.com/62452619/98999750-0eefbc80-2517-11eb-8926-5294de6b9999.png" width=50%>
 
 # Beatriz (Tris) Salles
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/3salles)](https://github.com/3salles)
