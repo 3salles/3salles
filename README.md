@@ -8,7 +8,8 @@
 
 <h3> Hi 👋 </h3>
 I am Beatriz Salles, I'm a student Full Stack Dev. I love games, reading, foxes and programming. I'm interested in AI stuffs.
-Now, I am working as trainee of the Lato Sensu specialization course 'Ciência é 10' from UFMA. There, I am using Moodle plataform. 
+Now, I am working as trainee of the Lato Sensu specialization course 'Ciência é 10' from UFMA. There, I am using Moodle plataform.
+And I am Software Developer in SciTech Application (an Extension Project at UFMA), where I develop Chatbots and similar things.
 
 <q> Just a geek girl trying to chance the world with a few code lines. </q>
 
