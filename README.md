@@ -3,9 +3,6 @@
 
 # :fox_face: Beatriz Salles 
 :nerd_face: Just a geek girl trying to change the world with a few code lines.
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/3salles)](https://github.com/3salles)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-salles-b701a31a6/)](https://www.linkedin.com/in/beatriz-salles-b701a31a6/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beatrizsallesss@gmail.com)](mailto:beatrizsallesss@gmail.com)
 
 ## :partying_face: Welcome to my Github Page! 
 I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
