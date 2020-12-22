@@ -1,30 +1,68 @@
 
  <img align="right" src = "https://user-images.githubusercontent.com/62452619/98999750-0eefbc80-2517-11eb-8926-5294de6b9999.png" width=50%>
 
-# Beatriz (Tris) Salles
+# :fox_face: Beatriz Salles 
+:nerd_face: Just a geek girl trying to change the world with a few code lines.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/3salles)](https://github.com/3salles)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-salles-b701a31a6/)](https://www.linkedin.com/in/beatriz-salles-b701a31a6/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beatrizsallesss@gmail.com)](mailto:beatrizsallesss@gmail.com)
 
-<h3> Hi 👋 </h3>
-I am Beatriz Salles, I'm a student Full Stack Dev. I love games, reading, foxes and programming. I'm interested in AI stuffs.
-Now, I am working as trainee of the Lato Sensu specialization course 'Ciência é 10' from UFMA. There, I am using Moodle plataform.
-And I am Software Developer in SciTech Application (an Extension Project at UFMA), where I develop Chatbots and similar things.
+## :partying_face: Welcome to my Github Page! 
+I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 
-<q> Just a geek girl trying to chance the world with a few code lines. </q>
+### :book: About me
+- :heart: I love games, reading, foxes, programming and learning new things.
+- :briefcase: Actually, I am a scholarship intern at the project Lato Sensu specialization course 'Ciência é 10' at UFMA, where I use Moodle plataform.
+- :computer: I am Software Developer in SciTech Application (an EXtension Program at UFMA), where I develop Chatbots and similar things.
+- :woman_student: I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.
 
-- 💻 **Languages:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/></code>
-- 🖥 **Techs:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/></code>
-- 💻⏰ **Learning:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/></code>
-- 💻🎯 **What to Learn:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/></code>
-- 📚 **Academic:** Studying Computer Engineering at UFMA (Federal University of Maranhão).
+### How Contact Me
+
+<a href="http://www.linkedin.com/in/beatriz-salles-b701a31a6">
+  <code><img alt="My LinkedIn" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:beatrizsallesss@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<a href="https://github.com/3salles">
+  <code><img alt="My Github" width="32" src="https://user-images.githubusercontent.com/62452619/102837058-ca8af280-43d9-11eb-8ce0-0b569ab5e793.png" /></code>
+</a>
+
+
+## My Development Stacks
+
+### :pushpin: Languages
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="36" src="https://user-images.githubusercontent.com/62452619/102837651-007ca680-43db-11eb-97ce-7a843e60d9f5.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+
+### :desktop_computer: Techs
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+### :card_index_dividers: Databases
+<code><img src="https://user-images.githubusercontent.com/62452619/102838807-d5478680-43dd-11eb-91f0-f14cce23ddbe.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838722-a8936f00-43dd-11eb-8b0a-bb902078ae7f.png" alt="MySQL"/></code>
+
+### :paperclip: Utilities
+<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/62452619/102837058-ca8af280-43d9-11eb-8ce0-0b569ab5e793.png" alt="Github"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+
+### :books: Learning
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+### :dart: Want to Learn
+<code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838515-25721900-43dd-11eb-8ca7-d536ebc8926e.png" alt="Ruby"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838510-21de9200-43dd-11eb-88a6-e47c70f993af.png" alt="Android"/></code>
+
+## My Coding Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical&langs_count=6)](https://github.com/3salles/github-readme-stats)
 [![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/3salles/github-readme-stats)
