@@ -59,6 +59,10 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 <code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838515-25721900-43dd-11eb-8ca7-d536ebc8926e.png" alt="Ruby"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838510-21de9200-43dd-11eb-88a6-e47c70f993af.png" alt="Android"/></code>
 
+## :telescope: Goals to 2021
+- Do at least one commit per day.
+- Improve my programming skills.
+
 ## My Coding Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical&langs_count=6)](https://github.com/3salles/github-readme-stats)
