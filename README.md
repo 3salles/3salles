@@ -65,6 +65,6 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 
 ## My Coding Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical&langs_count=6)](https://github.com/3salles/github-readme-stats)
-[![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/3salles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=dracula&langs_count=6)](https://github.com/3salles/github-readme-stats)
+[![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=dracula&hide=issues)](https://github.com/3salles/github-readme-stats)
 
