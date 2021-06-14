@@ -68,3 +68,4 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical&langs_count=6)](https://github.com/3salles/github-readme-stats)
 [![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/3salles/github-readme-stats)
 
+![Snake animation](https://github.com/3salles/3salles/blob/output/github-contribution-grid-snake.svg)
