@@ -9,7 +9,7 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 
 ### :book: About me
 - :heart: I love games, reading, foxes, programming and learning new things.
-- :briefcase: Actually, I am a scholarship intern at the project Lato Sensu specialization course 'Ciência é 10' at UFMA, where I use Moodle plataform.
+- :briefcase: Actually, I am an intern into MOBRJ Software as Front-end developer.
 - :computer: I am Software Developer in SciTech Application (an EXtension Program at UFMA), where I develop Chatbots and similar things.
 - :woman_student: I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.
 
