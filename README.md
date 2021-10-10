@@ -15,17 +15,10 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 
 ### How Contact Me
 
-<a href="http://www.linkedin.com/in/beatriz-salles-b701a31a6">
-  <code><img alt="My LinkedIn" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
+<a href="http://www.linkedin.com/in/beatriz-salles-b701a31a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="mailto:beatrizsallesss@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="https://github.com/3salles"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"></img></a>
 
-<a href="mailto:beatrizsallesss@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
-
-<a href="https://github.com/3salles">
-  <code><img alt="My Github" width="32" src="https://user-images.githubusercontent.com/62452619/102837058-ca8af280-43d9-11eb-8ce0-0b569ab5e793.png" /></code>
-</a>
 
 
 ## My Development Stacks
