@@ -9,7 +9,7 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 
 ### :book: About me
 - :heart: I love games, reading, foxes, programming and learning new things.
-- :briefcase: Actually, I am Front-end developer Jr.
+- :briefcase: Actually, I am Front-end developer Jr at Develcode.
 - :computer: I am Software Developer in SciTech Application (an EXtension Program at UFMA), where I develop Chatbots and similar things.
 - :woman_student: I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.
 
