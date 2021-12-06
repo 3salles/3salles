@@ -28,6 +28,7 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 <code><img height="36" src="https://user-images.githubusercontent.com/62452619/102837651-007ca680-43db-11eb-97ce-7a843e60d9f5.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/></code>
 
 ### :desktop_computer: Techs
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -47,6 +48,7 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"/></code>
 
 ### :dart: Want to Learn
 <code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838515-25721900-43dd-11eb-8ca7-d536ebc8926e.png" alt="Ruby"/></code>
