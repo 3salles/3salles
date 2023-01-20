@@ -10,8 +10,8 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 ### :book: About me
 - :heart: I love games, reading, foxes, programming and learning new things.
 <!--- - :briefcase: Actually, I am Front-end developer at Hitechline. -->
-- :computer: I am Software Developer in SciTech Application (an EXtension Program at UFMA), where I develop Chatbots and similar things.
-- :woman_student: I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.
+- :computer: I am React Front-End developer, studying to be Full Stack.
+- :woman_student: Bachelor in Science and Tecnology by UFMA ( Federal University of Maranhão), Brazil.
 
 ### How Contact Me
 
