@@ -2,7 +2,7 @@
  <img align="right" src = "https://user-images.githubusercontent.com/62452619/98999750-0eefbc80-2517-11eb-8926-5294de6b9999.png" width=50%>
 
 # :fox_face: Beatriz Salles 
-:nerd_face: Just a geek girl trying to change the world with a few code lines.
+:nerd_face: Geek, developer and lifelong learner who believes good code can make real impact..
 
 ## :partying_face: Welcome to my Github Page! 
 I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
@@ -10,8 +10,9 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 ### :book: About me
 - :heart: I love games, reading, foxes, programming and learning new things.
 <!--- - :briefcase: Actually, I am Front-end developer at Hitechline. -->
-- :computer: I am React Front-End developer, studying to be Full Stack.
-- :woman_student: Bachelor in Science and Tecnology by UFMA ( Federal University of Maranhão), Brazil.
+- :computer: React Front-End Developer passionate about creating accessible interfaces and constantly improving my skills in cybersecurity and software quality.
+- :woman_student: Bachelor in Science and Technology at UFMA, Federal University of Maranhão, Brazil.
+- :mortar_board: Postgraduate Degree in Software Engineering, Pontifícia Universidade Católica do Rio de Janeiro.
 
 ### How Contact Me
 
@@ -33,6 +34,8 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 ### :desktop_computer: Techs
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 
 ### :card_index_dividers: Databases
 <code><img src="https://user-images.githubusercontent.com/62452619/102838807-d5478680-43dd-11eb-91f0-f14cce23ddbe.png" alt="MongoDB"/></code>
@@ -44,23 +47,16 @@ I am Beatriz, you can call me Tris. I am a Fullstack developer from :brazil:.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
+
 ### :books: Learning
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"/></code>
+
 
 ### :dart: Want to Learn
 <code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838515-25721900-43dd-11eb-8ca7-d536ebc8926e.png" alt="Ruby"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/62452619/102838510-21de9200-43dd-11eb-88a6-e47c70f993af.png" alt="Android"/></code>
+<code><img height="32" src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"/></code>
+<code><img height="32" src="https://img.icons8.com/?size=100&id=pW9tHQnl55j4&format=png&color=000000" alt="Kotlin"/></code>
 
-## :telescope: Goals to 2021
-- Do at least one commit per day.
-- Improve my programming skills.
 
 ## My Coding Activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3salles&layout=compact&theme=radical&langs_count=6)](https://github.com/3salles/github-readme-stats)
-[![Baetriz's github stats](https://github-readme-stats.vercel.app/api?username=3salles&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/3salles/github-readme-stats)
-
 ![Snake animation](https://github.com/3salles/3salles/blob/output/github-contribution-grid-snake.svg)
